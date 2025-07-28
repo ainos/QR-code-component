@@ -32,8 +32,6 @@ p {
 .attribution {
     font-size: 11px;
     text-align: center;
-    position: fixed;
-    bottom: 10px;
 }
 
 .attribution a {
